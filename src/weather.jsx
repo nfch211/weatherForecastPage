@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 
 function Weather(props) {
   const Date = props.DATE.toString();
-  const imgPath = `/pic${props.ICON}.png`;
+  const imgPath = `pic${props.ICON}.png`;
   return (
     <div className="weather">
       <div>

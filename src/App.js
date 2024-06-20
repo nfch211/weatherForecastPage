@@ -43,7 +43,7 @@ function App() {
         明るい未来が待つ。
       </h2>
       <p style={{ fontSize: "50px" }}>
-        <img src="/bee.png" style={{ width: "100px" }} /> 🤣
+        <img src="bee.png" style={{ width: "100px" }} /> 🤣
       </p>
       <div className="inner-header flex">
         <div className="background">
